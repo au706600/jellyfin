@@ -1,5 +1,5 @@
 # Jellyfin Contributors
-
+ - [au706600](https://github.com/au706600/jellyfin)
  - [1337joe](https://github.com/1337joe)
  - [97carmine](https://github.com/97carmine)
  - [Abbe98](https://github.com/Abbe98)
